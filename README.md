@@ -13,4 +13,4 @@ Welcome to my GitHub profile! I'm a passionate software developer with a deep lo
 - 👨‍💻 8+ years of experience with **Pega Decisioning Software**.
 - 🎓 Bootcamp graduate from **Makers**.
 - 💞 Passionate about creating visually appealing and purposeful applications.
-- 📄 [Check out my CV](#) to learn more about my professional journey.
+- 📄 [Check out my CV](https://github.com/ASualy/ASualy/blob/main/Avni%20Sualy.pdf) to learn more about my professional journey.
