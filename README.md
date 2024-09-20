@@ -23,8 +23,8 @@ Here are some of the exciting projects I've worked on:
    A JS/React/Flask application for shelters and pet owners to list animals in a central space.
 
 2. **[Acebook](#)**  
-   A MERN stack application replicating Facebook.
-   A Swift UI application with an Instagram style feed page
+   a) A MERN stack application replicating Facebook.</br>
+   b) A Swift UI application with an Instagram style feed page
 
 4. **[MakersBnB](#)**  
    A Flask HTML/CSS application replicating AirBnB.
