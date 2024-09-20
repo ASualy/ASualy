@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a deep lo
 ## 🚀 What I'm Up To
 
 - 🌱 Currently enhancing my skills in **JavaScript** and **React**.
-- 🔧 Working on several exciting projects, which you can find below.
+- 🔧 Worked on several exciting projects, which you can find below.
 - 🎯 Aiming to develop proficiency in multiple languages and become a more versatile developer.
 
 ## 💼 About Me
@@ -14,3 +14,17 @@ Welcome to my GitHub profile! I'm a passionate software developer with a deep lo
 - 🎓 Bootcamp graduate from **Makers**.
 - 💞 Passionate about creating visually appealing and purposeful applications.
 - 📄 [Check out my CV](https://github.com/ASualy/ASualy/blob/main/AvniSualy.pdf) to learn more about my professional journey.
+
+## 🛠️ Projects
+
+Here are some of the exciting projects I've worked on:
+
+1. **[PawsforCause](#)**  
+   A JS/React/Flask application for shelters and pet owners to list animals in a central space.
+
+2. **[Acebook](#)**  
+   A MERN stack application replicating Facebook.
+   A Swift UI application with an Instagram style feed page
+
+4. **[MakersBnB](#)**  
+   A Flask HTML/CSS application replicating AirBnB.
